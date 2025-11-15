@@ -112,14 +112,13 @@ Steps to Execute
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Aastha1006/customer_behavior_analysis
    ```
-2. Open the Jupyter Notebook or script in the `notebooks/` or `scripts/` folder.
-3. Run the Python code to load, clean, and explore the dataset.
-4. Import the cleaned data into PostgreSQL using the provided SQL script.
-5. Open Power BI and load the dataset to view the dashboard.
-6. View the report and presentation in the `reports/` and `presentation/` folders.
+2. Open the Jupyter Notebook (Untitled.ipynb) in Jupyter or VS Code.
+3. Run the Python code to load, clean, and analyze the dataset.
+4. Import the cleaned data into PostgreSQL using SQL queries.
+5. Open the Power BI file (customer_behavior_dashboard.pbix) and load the dataset.
+6. View the final notebook, SQL analysis, and dashboard screenshots included in the repository.
 
 
-If you want, I can **convert this into a polished Markdown file**, add **badges**, reorganize for **GitHub best practices**, or tailor it to a **specific dataset or job role**.
 
